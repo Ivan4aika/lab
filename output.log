@@ -1,0 +1,156 @@
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+Запрос выполнен успешно.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
+PHP Warning:  file_get_contents(https://ivan4aika.ru/chek.php): Failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /main/ChekTime.php on line 8
+Ошибка при выполнении запроса.
